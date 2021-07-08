@@ -25,3 +25,4 @@ Create a file .env with the URL of your backend
 ```js[.env]
 BASE_URL=http://localhost:83
 ```
+For more details please read this [blog](https://javierpoma.com/blog/laravel-nuxt-auth-en-unos-minutos)
