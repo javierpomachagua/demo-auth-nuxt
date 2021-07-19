@@ -1,5 +1,7 @@
 # demo-nuxt
 
+Backend Laravel Repository: [Link](https://github.com/javierpomachagua/demo-auth-laravel)
+
 ## Build Setup
 
 ```bash
